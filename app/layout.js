@@ -5,8 +5,8 @@ const display = Bricolage_Grotesque({ subsets: ["latin"], variable: "--font-disp
 const body = Plus_Jakarta_Sans({ subsets: ["latin"], variable: "--font-body" });
 
 export const metadata = {
-  title: "Tracer Study SMKN 9 Surabaya",
-  description: "Survei alumni SMKN 9 Surabaya untuk menilai keselarasan pendidikan dan dunia kerja.",
+  title: "Tracer Study PKBM RUMAH HIJAU",
+  description: "Survei alumni PKBM RUMAH HIJAU untuk menilai keselarasan pendidikan dan dunia kerja.",
 };
 
 export default function RootLayout({ children }) {
